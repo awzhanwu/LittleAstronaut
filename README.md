@@ -32,4 +32,4 @@ When the energy to population ratio reaches **1:2**, the game wins and the score
 ## Others
 This project was originally intended for a competition.
 
-Details in STORY.md.
+Details in [STORY.md](https://github.com/awzhanwu/LittleAstronaut/blob/main/STORY.md).
