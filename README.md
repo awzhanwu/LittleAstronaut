@@ -1,3 +1,5 @@
+[中文介绍](https://github.com/awzhanwu/LittleAstronaut/blob/main/README_zh_cn.md)
+
 # LittleAstronaut
 LittleAstronaut is a space explore simulator made with [Pygame](https://github.com/pygame/pygame).
 
