@@ -1,4 +1,4 @@
-[English Intro]()
+[English Intro](https://github.com/awzhanwu/LittleAstronaut/blob/main/README.md)
 
 # LittleAstronaut
 《小小宇航员》是基于[Pygame](https://github.com/pygame/pygame)开发的小游戏。
